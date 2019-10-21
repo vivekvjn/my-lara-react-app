@@ -1,5 +1,5 @@
 module.exports = {
-    wntry: ['./app/main.js'],
+    entry: ['./app/main.js'],
     output: {
         path: './dist',
         filename: 'bundle.js',
